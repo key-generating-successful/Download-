@@ -1,0 +1,5 @@
+python-telegram-bot>=22.0,<23.0
+yt-dlp>=2025.1.15
+static-ffmpeg>=2.5
+
+imageio-ffmpeg>=0.5.1
